@@ -47,7 +47,7 @@
 <p>
   <a href="https://github.com/ahmedbinaasim"><img src="https://img.shields.io/badge/GitHub-ahmedbinaasim-4B5563?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
   <!-- TODO: LinkedIn --> 
-  <a href="[LINKEDIN_URL](https://www.linkedin.com/in/ahmed-bin-asim/)"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> -->
+  <a href="https://www.linkedin.com/in/ahmed-bin-asim"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <!-- TODO: site / RSS -->
   <!-- <a href="SITE_URL"><img src="https://img.shields.io/badge/Writing-RSS-F97316?style=flat-square&logo=rss&logoColor=white" alt="Writing and RSS"></a> -->
 </p>
