@@ -49,7 +49,7 @@
   <!-- TODO: LinkedIn --> 
   <a href="https://www.linkedin.com/in/ahmed-bin-asim"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <!-- TODO: site / RSS -->
-  <!-- <a href="SITE_URL"><img src="https://img.shields.io/badge/Writing-RSS-F97316?style=flat-square&logo=rss&logoColor=white" alt="Writing and RSS"></a> -->
+  <a href="https://ahmedbinaasim.vercel.app"><img src="https://img.shields.io/badge/Writing-RSS-F97316?style=flat-square&logo=rss&logoColor=white" alt="Writing and RSS"></a>
 </p>
 
 <sub>Working from Pakistan with US-timezone overlap.</sub>
